@@ -7,3 +7,5 @@
 2. extract 
 
 3. open folder and run "setup.bat" for launch the automatic installation
+
+4. yes.. it's finish.. easy
