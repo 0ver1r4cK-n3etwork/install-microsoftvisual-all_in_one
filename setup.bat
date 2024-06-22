@@ -3,8 +3,8 @@ CD /d %~dp0
 title Installation de Microsoft Visual by kaelynn'SH/b33rus
 
 echo.
-echo Microsoft Visual C++ All-In-One by kaelynn'SH/b33rus
-echo https://github.com/0ver1r4cK-n3etwork
+echo Microsoft Visual C++ All-In-One by kaelynn
+echo https://github.com/kaelynnthecat
 echo.
 echo Installation en cours.. ne fermez pas cette invite de commandes.
 
